@@ -1,0 +1,181 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="generator" content="Aspose.Words for .NET 22.9.0" />
+    <title>Reklamacja</title>
+    <style type="text/css">
+        body {
+            line-height: 115%;
+            widows: 0;
+            orphans: 0;
+            font-family: Arial;
+            font-size: 12pt;
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-top: 2%;
+        }
+
+        p {
+            margin: 0pt 0pt 10pt
+        }
+
+        li {
+            margin-top: 0pt;
+            margin-bottom: 10pt
+        }
+
+        .Caption {
+            margin-top: 6pt;
+            margin-bottom: 6pt;
+            line-height: normal;
+            widows: 0;
+            orphans: 0;
+            font-family: 'Times New Roman';
+            font-size: 12pt;
+            font-style: italic
+        }
+
+        .Heading {
+            margin-top: 12pt;
+            margin-bottom: 6pt;
+            page-break-after: avoid;
+            line-height: normal;
+            widows: 0;
+            orphans: 0;
+            font-family: Arial;
+            font-size: 14pt
+        }
+
+        .Index {
+            margin-top: 0pt;
+            margin-bottom: 0pt;
+            line-height: normal;
+            widows: 0;
+            orphans: 0;
+            font-family: 'Times New Roman';
+            font-size: 12pt
+        }
+
+        .List {
+            margin-top: 0pt;
+            margin-bottom: 6pt;
+            line-height: normal;
+            widows: 0;
+            orphans: 0;
+            font-family: 'Times New Roman';
+            font-size: 12pt
+        }
+
+        .Standard {
+            margin-top: 0pt;
+            margin-bottom: 0pt;
+            line-height: normal;
+            widows: 0;
+            orphans: 0;
+            font-family: 'Times New Roman';
+            font-size: 12pt
+        }
+
+        .Textbody {
+            margin-top: 0pt;
+            margin-bottom: 6pt;
+            line-height: normal;
+            widows: 0;
+            orphans: 0;
+            font-family: 'Times New Roman';
+            font-size: 12pt
+        }
+
+        span.StrongEmphasis {
+            font-weight: bold
+        }
+
+        .autor {
+            font-size: 10pt;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <p class="Textbody" style="margin-top:6pt; margin-bottom:0pt; text-align:right; font-size:14pt">
+            <span>Miejsce, data</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2; font-size:14pt">
+            <span>imie i nazwisko</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2; font-size:14pt">
+            <span>ulica</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2; font-size:14pt">
+            <span>miasto i kod pocztowy</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2; font-size:14pt">
+            <span>numer telefonu</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2; font-size:14pt">
+            <span>e-mail</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2; font-size:14pt">
+            <span style="-aw-import:ignore">&#xa0;</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2">
+            <span style="-aw-import:ignore">&#xa0;</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2; font-size:14pt">
+            <span>Do jakiej firmy skladasz reklamacje</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2; font-size:14pt">
+            <span>ulica tej firmy, miasto </span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2; font-size:14pt">
+            <span>wojewodztwo firmy</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2">
+            <span style="-aw-import:ignore">&#xa0;</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; widows:2; orphans:2">
+            <span style="-aw-import:ignore">&#xa0;</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:center; widows:2; orphans:2; font-size:14pt">
+            <span style="font-weight:bold">
+                <center>
+                    <h1>Reklamacja</h1>
+                </center>
+            </span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:center; widows:2; orphans:2">
+            <span style="-aw-import:ignore">&#xa0;</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2; font-size:14pt">
+            <span>Oświadczam, iż zakupiony przeze mnie w dniu _________ towar ____________ jest
+                niezgodny z przedstawionym opisem/umową. Powyższa niezgodność polega na ____________ oraz
+                została ujawniona w dniu 27.09.2018</span>
+        </p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2; font-size:14pt"><span>Z
+                uwagi na powyższe żądam, na podstawie art. 8 ust. 1 w zw. z art. 4 ustawy z dnia 27 lipca 2002 r. o
+                szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie kodeksu cywilnego doprowadzenia towaru do
+                stanu zgodnego z umową poprzez nieodpłatną naprawę towaru lub jego wymianę na nowy, pozbawiony
+                wad.</span></p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2"><span
+                style="-aw-import:ignore">&#xa0;</span></p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:justify; widows:2; orphans:2"><span
+                style="-aw-import:ignore">&#xa0;</span></p>
+        <p class="Textbody" style="margin-bottom:7.5pt; text-align:right; widows:2; orphans:2; font-size:14pt">
+        <p class="Textbody" style="font-size:14pt; font-family:'Times New Roman'; text-align: right; ">Z poważaniem</p>
+        <p class="Textbody" style="font-size:14pt; font-family:'Times New Roman'; text-align: right; ">imie i nazwisko</p>
+        <p><br></p>
+        <p><br></p>
+        <p><br></p>
+        <center>
+            <p class="autor"> Wykonał: </p> <!-- twoje nazwisko i imie -->
+        </center>
+
+        </span></p>
+    </div>
+</body>
+
+</html>
